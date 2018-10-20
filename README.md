@@ -18,7 +18,7 @@ Tinos was designed by Steve Matteson as an innovative, refreshing sans serif des
 ### Credits
 - Google Fonts Preview: [Tinos](https://fonts.google.com/specimen/Tinos)
 - Designer: [Steve Matteson](https://www.monotype.com/people/steve-matteson/) 
--@goleyisk for his help
--@topjohnwu for magisk and template
+- Goleyisk for his help
+- Topjohnwu for magisk and template
 ### Source
 https://github.com/wasefali/Tinos
